@@ -1,0 +1,1 @@
+from tables_managment.xlsx_connector import get_item_data, write_to_excel
